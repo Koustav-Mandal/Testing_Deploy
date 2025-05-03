@@ -6,7 +6,7 @@ import string
 import re
 #from sklearn.model_selection import train_test_split
 #from sklearn.metrics import accuracy_score
-from sklearn.metrics import classification_report
+#from sklearn.metrics import classification_report
 
 data_fake=pd.read_csv(r"C:\Users\KOUSTAV\Downloads\Fake.csv")
 data_true=pd.read_csv(r"C:\Users\KOUSTAV\Downloads\True.csv")
