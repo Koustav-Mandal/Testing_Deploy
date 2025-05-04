@@ -1,4 +1,2 @@
 streamlit
-pandas
-sklearn
-train_test_split
+scikit-learn
