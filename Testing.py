@@ -8,8 +8,8 @@ import re
 #from sklearn.metrics import accuracy_score
 #from sklearn.metrics import classification_report
 
-data_fake=pd.read_csv(r"C:\Users\KOUSTAV\Downloads\Fake.csv.zip")
-data_true=pd.read_csv(r"C:\Users\KOUSTAV\Downloads\True.csv.zip")
+data_fake=pd.read_csv()
+data_true=pd.read_csv('True.csv.zip')
 
 data_fake["class"]=0
 data_true['class']=1
